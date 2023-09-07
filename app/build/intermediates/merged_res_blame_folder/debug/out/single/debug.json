@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_fade_out.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_fade_out.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_modal_out.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_modal_out.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_up_in.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_up_in.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.piccut.app-pngs-17:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_album_show.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_album_show.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/layout_item_inventroy.xml.flat",
+        "source": "com.example.piccut.app-main-23:/layout/item_inventroy.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable-v24_tree.jpg.flat",
+        "source": "com.example.piccut.app-main-23:/drawable-v24/tree.jpg"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_overshoot_interpolator.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_overshoot_interpolator.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable_pdf_left_top_close.png.flat",
+        "source": "com.example.piccut.app-main-23:/drawable/pdf_left_top_close.png"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable_divider_inset.xml.flat",
+        "source": "com.example.piccut.app-main-23:/drawable/divider_inset.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable_ic_checkbox_unselected.xml.flat",
+        "source": "com.example.piccut.app-main-23:/drawable/ic_checkbox_unselected.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/layout_rv_item_ver2.xml.flat",
+        "source": "com.example.piccut.app-main-23:/layout/rv_item_ver2.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable-v24_bg_checkbox_shape.xml.flat",
+        "source": "com.example.piccut.app-main-23:/drawable-v24/bg_checkbox_shape.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/layout_recycler_view_single_or_multi_select_demo.xml.flat",
+        "source": "com.example.piccut.app-main-23:/layout/recycler_view_single_or_multi_select_demo.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable_ic_checkbox_selected.xml.flat",
+        "source": "com.example.piccut.app-main-23:/drawable/ic_checkbox_selected.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_exit.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_exit.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/layout_rv_item.xml.flat",
+        "source": "com.example.piccut.app-main-23:/layout/rv_item.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/layout_camera_x_demo_2.xml.flat",
+        "source": "com.example.piccut.app-main-23:/layout/camera_x_demo_2.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable-v24_bg.jpeg.flat",
+        "source": "com.example.piccut.app-main-23:/drawable-v24/bg.jpeg"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/layout_activity_negative_margin_top_padding_top.xml.flat",
+        "source": "com.example.piccut.app-main-23:/layout/activity_negative_margin_top_padding_top.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/layout_recycler_view_grid_demo.xml.flat",
+        "source": "com.example.piccut.app-main-23:/layout/recycler_view_grid_demo.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_anticipate_interpolator.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_anticipate_interpolator.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_album_dismiss.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_album_dismiss.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_fade_in.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_fade_in.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable_shape_line.xml.flat",
+        "source": "com.example.piccut.app-main-23:/drawable/shape_line.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable_test_pic_2.jpg.flat",
+        "source": "com.example.piccut.app-main-23:/drawable/test_pic_2.jpg"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_modal_in.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_modal_in.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.piccut.app-main-23:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable_bg_shape_1.xml.flat",
+        "source": "com.example.piccut.app-main-23:/drawable/bg_shape_1.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_down_out.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_down_out.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/layout_cutter_example.xml.flat",
+        "source": "com.example.piccut.app-main-23:/layout/cutter_example.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/layout_camera_x_demo.xml.flat",
+        "source": "com.example.piccut.app-main-23:/layout/camera_x_demo.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/anim_picture_anim_enter.xml.flat",
+        "source": "com.example.piccut.app-main-23:/anim/picture_anim_enter.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/layout_cut_cover.xml.flat",
+        "source": "com.example.piccut.app-main-23:/layout/cut_cover.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.piccut.app-main-23:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.piccut.app-merged_res-21:/layout_activity_recyclerview.xml.flat",
+        "source": "com.example.piccut.app-main-23:/layout/activity_recyclerview.xml"
+    }
+]

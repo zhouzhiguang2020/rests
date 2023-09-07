@@ -1,0 +1,136 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.piccut"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:4:5-66
+11-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:4:22-63
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:5:5-81
+12-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:6:5-80
+13-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:6:22-77
+14
+15    <uses-feature android:name="android.hardware.camera" />
+15-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:7:5-60
+15-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:7:19-57
+16
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:8:5-65
+17-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:8:22-62
+18
+19    <application
+19-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:10:5-52:19
+20        android:allowBackup="true"
+20-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:11:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.2] C:\Users\Administrator\.gradle\caches\transforms-3\de0c9200f92099ffedc1f23f75456237\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:12:9-43
+25        android:label="@string/app_name"
+25-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:13:9-41
+26        android:largeHeap="true"
+26-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:17:9-33
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:14:9-54
+28        android:supportsRtl="true"
+28-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:15:9-35
+29        android:theme="@style/Theme.AppCompat.NoActionBar" >
+29-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:16:9-59
+30        <activity android:name="com.example.effectByScrollInOut.EffectDemoActivity" >
+30-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:18:9-19:20
+30-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:18:19-84
+31        </activity>
+32        <activity android:name="com.example.picCutview.PicCutActivity" >
+32-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:20:9-21:20
+32-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:20:19-71
+33        </activity>
+34        <activity android:name="com.example.dctDemo.DCTTestDemo" >
+34-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:22:9-23:20
+34-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:22:19-65
+35        </activity>
+36        <activity android:name="com.example.pdfReader.PdfReaderDemo" >
+36-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:24:9-25:20
+36-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:24:19-69
+37        </activity>
+38        <activity
+38-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:26:9-28:20
+39            android:name="com.example.cameraXDemo.CameraXDemoActivity_1"
+39-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:26:19-79
+40            android:launchMode="singleInstance" >
+40-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:27:13-48
+41        </activity>
+42        <activity android:name="com.example.photoSelector.PhotoSelectorPageActivity" >
+42-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:29:9-30:20
+42-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:29:19-85
+43        </activity>
+44        <activity android:name="com.example.photoSelectorByRecycler.PicSelectorByRV" >
+44-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:31:9-32:20
+44-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:31:19-85
+45        </activity>
+46        <activity android:name="com.example.photoCutter.CutterActivity" >
+46-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:33:9-34:20
+46-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:33:19-72
+47        </activity>
+48        <activity android:name="com.example.sidingMenuRecyclerView.SlideRecyclerViewActivity" >
+48-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:35:9-36:20
+48-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:35:19-94
+49        </activity>
+50        <activity android:name="com.example.whiteboard.MainActivity" >
+50-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:37:9-38:20
+50-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:37:19-69
+51        </activity>
+52        <activity android:name="com.example.eldestBmpOutCache.TestActivity" >
+52-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:39:9-40:20
+52-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:39:19-76
+53        </activity>
+54        <activity android:name="com.example.demosAboutCanvas.ChangeColorAfterDraw" >
+54-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:41:9-42:20
+54-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:41:19-83
+55        </activity>
+56        <activity android:name="com.example.singleChoiceRecyclerView.SingleOrMultiChoiceRecyclerActivity" >
+56-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:43:9-44:20
+56-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:43:19-106
+57        </activity>
+58        <activity android:name="com.cjz.demo.MainActivity" >
+58-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:45:9-51:20
+58-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:45:19-59
+59            <intent-filter>
+59-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:46:13-50:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:47:17-69
+60-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:47:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:49:17-77
+62-->E:\GitHub\android-demo\app\src\main\AndroidManifest.xml:49:27-74
+63            </intent-filter>
+64        </activity>
+65
+66        <service
+66-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Administrator\.gradle\caches\transforms-3\d077eb0e32491af04472e0241fc807a9\transformed\jetified-camera-camera2-1.1.0-beta01\AndroidManifest.xml:26:9-35:19
+67            android:name="androidx.camera.core.impl.MetadataHolderService"
+67-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Administrator\.gradle\caches\transforms-3\d077eb0e32491af04472e0241fc807a9\transformed\jetified-camera-camera2-1.1.0-beta01\AndroidManifest.xml:27:13-75
+68            android:enabled="false"
+68-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Administrator\.gradle\caches\transforms-3\d077eb0e32491af04472e0241fc807a9\transformed\jetified-camera-camera2-1.1.0-beta01\AndroidManifest.xml:28:13-36
+69            android:exported="false" >
+69-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Administrator\.gradle\caches\transforms-3\d077eb0e32491af04472e0241fc807a9\transformed\jetified-camera-camera2-1.1.0-beta01\AndroidManifest.xml:29:13-37
+70            <meta-data
+70-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Administrator\.gradle\caches\transforms-3\d077eb0e32491af04472e0241fc807a9\transformed\jetified-camera-camera2-1.1.0-beta01\AndroidManifest.xml:32:13-34:89
+71                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+71-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Administrator\.gradle\caches\transforms-3\d077eb0e32491af04472e0241fc807a9\transformed\jetified-camera-camera2-1.1.0-beta01\AndroidManifest.xml:33:17-103
+72                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+72-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Administrator\.gradle\caches\transforms-3\d077eb0e32491af04472e0241fc807a9\transformed\jetified-camera-camera2-1.1.0-beta01\AndroidManifest.xml:34:17-86
+73        </service>
+74    </application>
+75
+76</manifest>
